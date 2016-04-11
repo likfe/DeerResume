@@ -13,10 +13,6 @@ DeerResume
   - 一键生成简单雅致的PDF，供邮件发送及打印
   
 
-免部署的在线版本： → http://cvbox.sinaapp.com/
-
-Demo → http://easy.digitcv.com/  
-
 部署指南：→ http://get.jobdeer.com/745.get
 
 
